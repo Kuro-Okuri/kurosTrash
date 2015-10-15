@@ -1,0 +1,2 @@
+# kurosTrash
+things I have
